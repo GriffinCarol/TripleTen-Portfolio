@@ -52,7 +52,7 @@ Key visualizations include:
 
 ## CallCenter Data Analysis
 
-Sprint 7 Final Project.pdf
+[Sprint 7 Final Project.pdf](https://github.com/GriffinCarol/TripleTen-Portfolio/blob/main/Sprint%207%20Final%20Project.pdf)
 
  ## Project Description
 
