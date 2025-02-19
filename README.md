@@ -52,7 +52,7 @@ Key visualizations include:
 
 ## CallCenter Data Analysis
 
- [CallCenter Data Analysis.twbx](Callcenter Data Analysis.png)
+Sprint 7 Final Project.pdf
 
  ## Project Description
 
