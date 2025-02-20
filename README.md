@@ -67,7 +67,7 @@ The dashboard combines data from restaurants, customers, sales, and other source
 
 Key visualizations include:
 
-- sales and revenue breakdowns
+- Sales and revenue breakdowns
 - Analysis of restaurants by most profitable and highest ratings
 - Sales analysis against restaurant location
 - Customer volume and performance by location
